@@ -12,7 +12,7 @@
 /-----------------------------------------------------------------------------------/
 / Author and Main Developer: FantoX                                                 /
 / Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
+/ Powered By: Team Joker                                                            /
 /-----------------------------------------------------------------------------------/
 /             Meet Team ATLAS who holds all rights to this repository:              /
 /                                                                                   /
@@ -32,7 +32,7 @@
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "918101187835";   // You can Change this number //
+  gg = "01159250900";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
